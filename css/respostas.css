@@ -1,0 +1,24 @@
+body {
+    Background: linear-gradient(to right, rgb(38, 192, 253), rgb(5, 132, 190));
+    color: white;
+    text-align: center;
+}
+
+.table-bg {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.teste {
+    overflow-x: auto;
+}
+
+.teste table {
+    width: 100%;
+}
+
+input {
+    background: transparent;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+}
