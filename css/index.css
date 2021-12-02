@@ -5,14 +5,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(to right, #12a1da, #1271da);
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
 
 .box {
     color: rgb(32, 32, 32);
-    position: absolute;
-    top: 83%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 15px;

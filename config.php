@@ -15,5 +15,3 @@
    // {
    //     echo "Conexao efetuada";
    // }
-
-?>
